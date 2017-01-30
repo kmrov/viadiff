@@ -1,3 +1,4 @@
+# coding: utf8
 import xml.etree.ElementTree as et
 
 
