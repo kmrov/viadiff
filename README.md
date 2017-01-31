@@ -1,4 +1,4 @@
-viadiff - a via.com xml response diff util.
+viadiff - a via.com xml response diff util
 ==============================
 
 Setup
